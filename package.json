@@ -1,0 +1,16 @@
+{
+  "name": "com.vklubkov.editorawaitables",
+  "version": "1.0.0",
+  "displayName": "Editor Awaitables",
+  "description": "Use async/await in Unity Editor instead of Editor Coroutines.",
+  "unity": "6000.3",
+  "license": "MIT",
+  "licensesUrl": "https://github.com/vklubkov/UnityEditorAwaitables?tab=MIT-1-ov-file",
+  "changelogUrl": "https://github.com/vklubkov/UnityEditorAwaitables/releases",
+  "documentationUrl": "https://github.com/vklubkov/UnityEditorAwaitables",
+  "author": {
+    "name": "Vladimir Klubkov",
+    "url": "https://github.com/vklubkov",
+    "email": "vladimir.gamedev@gmail.com"
+  }
+}
